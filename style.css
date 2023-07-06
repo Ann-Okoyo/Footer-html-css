@@ -1,0 +1,17 @@
+footer{
+
+    width: 100%;
+    border-top-left-radius:50px ;
+    color:white;
+    background-color: green;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr)
+
+}
+.foot1 li{
+    list-style: none;
+   
+}
+.foot li{
+    list-style: none;
+}
